@@ -1,6 +1,7 @@
 <!--파란 그라데이션 원모양 부분-->
 <div align="center">
 
+
   <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00bfff,100:8a2be2&height=200&text=" />
 
 </div>
