@@ -99,7 +99,7 @@
   </a>
 
 <div align="center">  
-<br><br><br>
+<br><br><br><br>
 
 <!--보라 하늘 물결줄 -->
 ![tech](https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00bfff&height=65)
