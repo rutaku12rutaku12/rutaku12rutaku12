@@ -1,4 +1,3 @@
-## Hi there 👋
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&text=Hello!%20rutaku12%20GIT" />
