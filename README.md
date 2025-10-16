@@ -96,7 +96,7 @@
   </a>
   <a href="mailto:chookyuho@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      src="https://img.shields.io/badge/chookyuho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
 <div align="center">  
