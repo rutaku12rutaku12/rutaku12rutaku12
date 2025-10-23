@@ -94,10 +94,10 @@
   <a href="https://velog.io/@choikyuho">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=chookyuho@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/chookyuho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:chookyuho@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
+
 
 
 <div align="center">  
