@@ -121,6 +121,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutaku12rutaku12)](https://github.com/anuraghazra/github-readme-stats)  
 <br>
 
+<!--보라 하늘 물결줄 -->
+![tech](https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00bfff&height=65)
+
+<!-- 깃 동물원 -->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{rutaku12rutaku12}?pet-id=1" width="1000" height="120"/>
+</a>
+
+
+
 </div>
 
 
