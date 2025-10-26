@@ -126,8 +126,12 @@
 
 <!-- 깃 동물원 -->
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{rutaku12rutaku12}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rutaku12rutaku12&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/rutaku12rutaku12"
+  width="600"
+  height="300"
+/>
 </a>
 
 </div>
