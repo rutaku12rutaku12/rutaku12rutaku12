@@ -125,11 +125,10 @@
 ![tech](https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00bfff&height=65)
 
 <!-- 깃 동물원 -->
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{rutaku12rutaku12}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/{rutaku12rutaku12}"/>
 </a>
-
-
 
 </div>
 
