@@ -42,6 +42,7 @@
   <code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" /></code>
   <code><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> </code>
   <code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> </code>
+  
   <code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   
 </div>
@@ -60,7 +61,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
 
   <!-- 언어 비율 -->
-  <span align="left">
+  <div align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; text-align: left;">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutaku12rutaku12" 
@@ -69,10 +70,10 @@
         style="border-radius: 10px; margin-left: 20px;"
       />
     </a>
-  </span>
+  </div>
 
   <!-- 깃 동물원 -->
-  <span align="right"> 
+  <div align="right"> 
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rutaku12rutaku12&utm_content=farm" style="flex: 1; text-align: right;">
       <img 
         src="https://render.gitanimals.org/farms/rutaku12rutaku12" 
@@ -81,7 +82,7 @@
         style="border-radius: 10px; margin-right: 20px;"
       />
     </a>
-  </span>
+  </div>
 
 </div>
 
