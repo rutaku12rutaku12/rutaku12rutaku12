@@ -56,35 +56,29 @@
 
 
 
-
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutaku12rutaku12"
+      width="400"
+      height="200"
+      style="border-radius: 10px;"
+    />
+  </a>
 
-  <!-- 언어 비율 -->
-  <div align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; text-align: left;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutaku12rutaku12" 
-        width="400" 
-        height="200"
-        style="border-radius: 10px; margin-left: 20px;"
-      />
-    </a>
-  </div>
-
-  <!-- 깃 동물원 -->
-  <div align="right"> 
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rutaku12rutaku12&utm_content=farm" style="flex: 1; text-align: right;">
-      <img 
-        src="https://render.gitanimals.org/farms/rutaku12rutaku12" 
-        width="400" 
-        height="600"
-        style="border-radius: 10px; margin-right: 20px;"
-      />
-    </a>
-  </div>
-
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rutaku12rutaku12&utm_content=farm">
+    <img 
+      src="https://render.gitanimals.org/farms/rutaku12rutaku12"
+      width="350"
+      height="200"
+      style="border-radius: 10px;"
+    />
+  </a>
 </div>
+
+
+
+
 
 
 
