@@ -65,7 +65,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; text-align: left;">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutaku12rutaku12" 
-        width="450" 
+        width="400" 
         height="200"
         style="border-radius: 10px; margin-left: 20px;"
       />
