@@ -51,6 +51,83 @@
 
 
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00bfff,100:8a2be2&height=3&section=header" width="100%">
+
+# Projects 
+
+## <img src="https://github.com/user-attachments/assets/7e36b0d3-34f1-4fa8-a576-ddd434e96247" width="35" height="35"/> 재밌는한국어(Web/App)
+
+한국어·문화 통합 교육 플랫폼
+> **기간:** 2025.11.05 ~ 2025.11.27  
+> **기술스택:** Spring Boot · React · Flutter  
+> **역할:** <br>
+- 회원 계정 기능 <br>
+- **JWT 기반** 사용자 인증·인가 기능 <br>
+- **SMTP 기반** 메일 기능
+
+> #### 주요 기능
+- Spring Security · JWT · Bcrypt 기반 인증·인가 / SMTP 이메일
+- 이미지·음성·TTS 기반 한국어 학습 콘텐츠
+- 그림·음성·주관식 시험 & AI 채점
+- 다국어(i18n) 지원
+- JS 기반 한글 게임 & 랭킹 기능
+- 사용자 테마·스토어·포인트 시스템
+
+> 🔗 [프로젝트 GitHub Java](https://github.com/rutaku12rutaku12/sayKoreanApp) <br>
+> 🔗 [프로젝트 GitHub Flutter](https://github.com/rutaku12rutaku12/saykoreanapp_f) <br>
+> 🔗 [프로젝트 PPT](https://www.canva.com/design/DAG5kjwJE0M/5mWLLG7tEjANlWtUzPoj4w/edit)
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00bfff,100:8a2be2&height=3&section=header" width="100%">
+
+## <img src="https://github.com/rutaku12rutaku12/sayKorean/blob/master/src/main/saykorean/public/img/todori.png" width="40" height="40"/> 재밌는한국어(Web)
+
+한국어·문화 통합 교육 플랫폼
+> **기간:** 2025.09.26~2025.10.31 <br>
+> **기술스택:** Spring Boot · React <br>
+> **역할:** <br>
+- 회원 계정 기능
+- **소셜 로그인** 기능
+- **봇 방지 API** 기능
+
+>
+> #### 주요 기능
+- Spring Security · Bcrypt 기반 인증·인가
+- reCAPTCHA 기반 봇 방지 회원가입
+- 구글/카카오 소셜 로그인·회원가입
+- 이미지·음성·TTS 기반 한국어 학습 콘텐츠
+- 그림·음성·주관식 시험 & AI 채점
+- 다국어(i18n) 지원
+
+> 🔗 [프로젝트 GitHub](https://github.com/rutaku12rutaku12/sayKorean)  
+> 🔗 [프로젝트 PPT](https://www.canva.com/design/DAG3J_oJgsE/IHlOeCYRKxjNR_XsXvBaYw/edit)
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00bfff,100:8a2be2&height=3&section=header" width="100%">
+
+## <img src="https://raw.githubusercontent.com/kant300/moveon/refs/heads/parkoaksun/src/main/resources/static/img/%EB%AC%B4%EB%B8%8C%EC%98%A8%EB%A1%9C%EA%B3%A0-crop.png" width="30" height="40"/> mOveOn(Web)
+
+생활 편의 통합 플랫폼
+> **기간:** 2025.08.21~2025.09.12 <br>
+> **기술스택:** Spring Boot · JSP <br>
+> **역할:** <br>
+- Git 통합
+- 지도 기반 의류수거함 **위치 서비스** 
+- 지역 **맞춤형** 쓰레기 배출 **정보** 기능
+- UI·UX 프론트엔드
+
+> #### 주요 기능
+- 실시간 날씨 정보 제공
+- 지역별 쓰레기 배출 정보 안내
+- 공공데이터 기반 의류수거함 위치 지도 표시
+- 현 위치 기반 반경 내 성범죄자 수 정보 제공
+- 지하철 엘리베이터·에스컬레이터 위치 및 운행 안내
+
+> 🔗 [프로젝트 GitHub](https://github.com/rutaku12rutaku12/moveon)  
+> 🔗 [프로젝트 PPT](https://www.canva.com/design/DAGzH-EZl3M/FnSS7vjTUgDWq9reXXS5pA/edit)
 
 <br><br><br><br>
 
