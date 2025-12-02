@@ -1,20 +1,22 @@
-<!--파란 그라데이션 원모양 부분-->
-<div align="center">
 
-
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00bfff,100:8a2be2&height=200&text=" />
-
-</div>
 <br><br> 
 <!--텍스트 루타쿠 깃-->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=54&duration=1000&pause=2500&multiline=true&width=700&height=100&lines=RUTAKU12+x2+on+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=54&duration=1000&pause=2500&multiline=true&width=700&height=100&lines=배움을+멈추지않는+개발자)](https://git.io/typing-svg)
+
+</div>
+
+<!--파란 그라데이션 원모양 부분-->
+<div align="center">
+
+
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00bfff,100:8a2be2&height=200&text=최규호입니다." />
 
 </div>
 
 
-<br><br>
+<br>
 
 <!-- 깃,쥐메일,벨로그 뱃지 -->
 
